@@ -34,7 +34,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Uma básica landing page feita com HTML e CSS
 
----
 
 ## :memo: Licença
 
